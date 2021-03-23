@@ -1,0 +1,158 @@
+@media screen and (max-width:628px){
+.img_gallery h1 {
+    color: #ffffff;
+    font-size: 18px;
+    padding-left: 19px;
+    padding-bottom: 100px;
+    width: 100%;
+    padding-right: 0px;
+}
+h1.under_text a {
+	font-size:25px;
+}
+hr.bold-black {
+	border-top: 6px solid #fff;
+	width: 85px;
+}
+a.ayonkor_link {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 12px;
+}
+.list_tag h5{
+	
+	line-height:30px;
+	font-size:18px;
+	width:90%;
+}
+.long_img p{
+	font-size:22px;
+}
+.contact_info h4{
+	font-size:22px;
+}
+}
+
+@media screen and (max-width:550px){
+.hdline_width_paragraph{
+	margin-top:80px;
+	margin-bottom:100px;
+	padding-left:40px;
+}
+h1.under_text a {
+	font-size:20px;
+}
+hr.bold-black {
+	border-top: 5px solid #fff;
+	width: 80px;
+}
+.card_cover{
+	padding-top:30px;
+	padding-bottom:30px;
+	
+}
+.list_tag h5 {
+    line-height: 21px;
+    font-size: 16px;
+    width: 80%;
+}
+.long_img p{
+	font-size:18px;
+}
+.contact_info h4{
+	font-size:18px;
+}
+}
+
+
+@media screen and (max-width:765px){
+.img_gallery h1 {
+    font-size: 18px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    width: 80%;
+    padding-right: 0px;
+	}
+	.all-paragraph p{
+		font-size:12px;
+}
+.long_img p{
+	font-size:20px;
+}	
+.contact_info h4{
+	font-size:20px;
+}
+.hdline h1{
+	font-size:20px;
+	
+}
+.hdline h4{
+	font-size:18px;
+}
+.bolde_width{
+	border-bottom: 7px solid #364D61;
+	width: 80px;
+}
+hr.bold-black {
+	border-top: 8px solid #fff;
+	width: 90px;
+}
+.headLine h1 {
+    font-size: 29px;
+}
+
+hr.bold-red {
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 8px solid #364D61;
+    width: 100px;
+    margin-left: 55px;
+}
+h1.under_text a {
+	font-size:30px;
+}
+h1.under_text {
+    
+    line-height: 35px;
+   
+	
+}
+}
+
+
+
+
+@media screen and (max-width:500px){
+h1.under_text {
+    padding-left: 50px;
+    line-height: 35px;
+    padding-top: 10px;
+	
+}
+.long_img p{
+	font-size:18px;
+}
+.contact_info h4{
+	font-size:18px;
+}
+.list_tag h5{
+	
+	line-height:20px;
+	font-size:12px;
+	width:80%;
+}
+}
+@media screen and (max-width:400px){
+
+.long_img p{
+	font-size:15px;
+}
+.contact_info h4{
+	font-size:15px;
+}
+}
+
+
